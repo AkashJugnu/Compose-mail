@@ -4,13 +4,13 @@ I went through the given task and identify the solution which is included in thi
 It developed in following ways:
   1.Front-end:
     
-    (i)react.js
-    (ii)HTML
-    (iii)CSS
+    react.js
+    HTML
+    CSS
   
   2.Back-end
   
-    (i)node.js  
+    node.js  
   
 ## Requirement
 
