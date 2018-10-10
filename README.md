@@ -3,12 +3,14 @@
 I went through the given task and identify the solution which is included in this repository.
 It developed in following ways:
   1.Front-end:
+    
     (i)react.js
-   (ii)HTML
-   (iii)CSS
+    (ii)HTML
+    (iii)CSS
   
   2.Back-end
-   (i)node.js  
+  
+    (i)node.js  
   
 ## Requirement
 
