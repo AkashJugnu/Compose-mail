@@ -26,27 +26,23 @@ cd Compose-mail
   
     node.js
     npm install
-  
-  copy the api key to index.js in server folder
-  
-  start the server using node index.js in terminal 
-  and open your favorate browser and run localhost:7000
-  and than fill the email-id of recipient provided by subject and body of the mail, than click on send message and your mail is   now send to the recipient.
+    
+   copy the api key to index.js in server folder
+    
+   start the server using node index.js in terminal and open your favorate browser and run localhost:7000
+   and than fill the email-id of recipient provided by subject and body of the mail, than click on send message and your mail is now send to the recipient.
 
 
 # DOCUMENTATION
+
 # Folder Structure
 All the source code will be inside src directory. Inside src, there is client and server directory. All the frontend code (react, css, js and any other assets) will be in client directory. Backend Node.js code will be in the server directory.
 
+# sendgrid
+Get api key from sendgrid and paste it to index.js in server folder to send mail.
+
 # Babel
 Babel helps us to write code in the latest version of JavaScript. If an environment does not support certain features natively, Babel will help us to compile those features down to a supported version. It also helps us to convert JSX to Javascript.
-
-.babelrc file is used describe the configurations required for Babel. Below is the .babelrc file which I am using.
-
-    {
-      "presets": ["env", "react"]
-    }
-Babel requires plugins to do the transformation. Presets are the set of plugins defined by Babel. Preset env allows to use babel-preset-es2015, babel-preset-es2016, and babel-preset-es2017 and it will transform them to ES5. Preset react allows us to use JSX syntax and it will transform JSX to Javascript.
 
 # Webpack
 Webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser.
