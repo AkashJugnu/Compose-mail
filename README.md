@@ -2,25 +2,24 @@
 
 I went through the given task and identify the solution which is included in this repository.
 It developed in following ways:
-  1.Front-end:
+  1.FRONT-END:
     
     react.js
     HTML
     CSS
   
-  2.Back-end
+  2.BACK-END:
   
     node.js  
   
-# Requirement
-
-## Clone the repository
+# REQUIREMENTS:
+# Clone the repository
 git clone https://github.com/AkashJugnu/Compose-mail
 
-## Go inside the directory
+# Go inside the directory
 cd Compose-mail
 
-## Install dependencies
+# Install dependencies
   node.js
   npm install
   
