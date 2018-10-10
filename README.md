@@ -12,15 +12,15 @@ It developed in following ways:
   
     node.js  
   
-## Requirement
+# Requirement
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/AkashJugnu/Compose-mail
 
-# Go inside the directory
+## Go inside the directory
 cd Compose-mail
 
-# Install dependencies
+## Install dependencies
   node.js
   npm install
   
