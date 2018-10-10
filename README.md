@@ -2,13 +2,13 @@
 
 I went through the given task and identify the solution which is included in this repository.
 It developed in following ways:
-1.Front-end 
-  react.js
-  HTML
-  CSS
+  1.Front-end:
+    (i)react.js
+   (ii)HTML
+   (iii)CSS
   
- 2.Back-end
-   node.js  
+  2.Back-end
+   (i)node.js  
   
 ## Requirement
 
