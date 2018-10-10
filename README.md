@@ -27,5 +27,5 @@ cd Compose-mail
   copy the api key to index.js in server folder
   
   start the server using node index.js in terminal 
-  and open your favorate browser and open localhost:7000
-  and than fill the email-id to whome you want to send the mail, provide subject and body of the mail, than click send on send   message and your mail is now send to the recipient.
+  and open your favorate browser and run localhost:7000
+  and than fill the email-id of recipient provided by subject and body of the mail, than click on send message and your mail is   now send to the recipient.
