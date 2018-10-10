@@ -20,8 +20,9 @@ git clone https://github.com/AkashJugnu/Compose-mail
 cd Compose-mail
 
 # Install dependencies
-  node.js
-  npm install
+  
+    node.js
+    npm install
   
   copy the api key to index.js in server folder
   
