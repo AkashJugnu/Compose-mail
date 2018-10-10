@@ -7,7 +7,6 @@ It developed in following ways:
     react.js
     HTML
     CSS
-    bootstrap
   
   2.BACK-END:
   
