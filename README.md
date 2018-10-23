@@ -1,4 +1,5 @@
 # Compose mail
+This project is use to send mail from your(or specific) email-id to any other e-mail Id using sendgrid.
 
 I went through the given task and identify the solution which is included in this repository.
 It developed in following ways:
